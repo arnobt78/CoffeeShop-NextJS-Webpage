@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-secondary text-secondary leading-relaxed;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-primary font-primary;
+  }
+  .h1 {
+    @apply text-[70px] xl:text-[150px] leading-[1.1] font-semibold;
+  }
+  .h2 {
+    @apply text-[56px] xl:text-[80px] leading-[1.2] font-bold;
+  }
+  .lead {
+    @apply text-lg;
+  }
+  .btn {
+    @apply min-w-[156px] h-[54px] px-6 bg-accent hover:bg-accent-hover text-primary text-[13px] uppercase font-semibold tracking-[.15em] transition-all;
+  }
+}
+
+/* swiper navigation arrow styles */
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  @apply text-primary !text-[2rem];
+}
