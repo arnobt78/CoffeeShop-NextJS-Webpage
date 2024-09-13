@@ -3,7 +3,7 @@
 
 Coffee-Shop is a NextJS 14 Static Frontend Webpage, using React.js, Typescript, TailwindCSS, Framer-Motion, Locomotive-Scroll, Gsap, React-Icons, Split-Type, Swiper, Mobile NavBar features and deploed on Vercel.
 
-**Note: To check this webpage live, click here:** 
+**Note: To check this webpage live, click here:** https://coffeeshop-arnob.vercel.app/
 
 ## To Install Dependences
 
