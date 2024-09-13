@@ -1,6 +1,20 @@
 
 ## CoffeeShop-NextJS-Webpage
 
+Coffee-Shop is a NextJS 14 Static Frontend Webpage, using React.js, Typescript, TailwindCSS, Framer-Motion, Locomotive-Scroll, Gsap, React-Icons, Split-Type, Swiper, Mobile NavBar features and deploed on Vercel.
+
+**Note: To check this webpage live, click here:** 
+
+## To Install Dependences
+
+Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
+
+To install all dependences, run this command from your project folder: `npm install`
+
+## To Install NodeJS
+
+Make sure you have NodeJS installed in your machine first, The installation instructions are here: https://nodejs.org/en/
+
 ## Relevant Tutorial Links
 
 > https://www.youtube.com/watch?v=TIbyO-bwdUs
@@ -13,7 +27,7 @@
 
 > https://miyattiblog.com/explanation-of-flex-property/
 
-## To Install Package Dependencies
+## Project Dependences Package Installation Command
 
 ```
 npm i gsap react-icons split-type swiper
